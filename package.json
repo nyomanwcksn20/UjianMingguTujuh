@@ -1,0 +1,12 @@
+{
+  "name": "com.ujianjs1.main",
+  "version": "1.0.0",
+  "description": "Ujian Juaracoding Java Script Fundamental",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyoman Wicaksana",
+  "license": "ISC"
+}
