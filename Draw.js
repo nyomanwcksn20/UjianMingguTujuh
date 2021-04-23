@@ -73,4 +73,4 @@ let kotakpola = nilai =>{
 }
 
 console.log("Menggambar Kotak Pola");
-console.log(kotakpola(7));  
+console.log(kotakpola(5));  
